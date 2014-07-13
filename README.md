@@ -1,6 +1,6 @@
 ## AOSPA 3+ Bootanimation
 
-I pulled this from the original ROM and ported it to be used in the [AOSPA4](https://plus.google.com/+ParanoidAndroidCorner)/[CM11](http://www.cyanogenmod.org/) Theme Engine.
+I pulled this from the [original ROM](https://plus.google.com/+ParanoidAndroidCorner/posts/c2orL7JAZZp) and ported it to be used in the [AOSPA4](https://plus.google.com/+ParanoidAndroidCorner)/[CM11](http://www.cyanogenmod.org/) Theme Engine.
 
 Here's how it should look like, I've only tested this on the Nexus 4:
 
