@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-	package="net.p3lim.patheme"
+	package="net.p3lim.theme.aospabootanimation"
 	android:versionCode="1"
 	android:versionName="1">
 
